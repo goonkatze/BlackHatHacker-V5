@@ -25,7 +25,6 @@ ollama create BlackHatHacker -f ModelFileBlackHatV6
 ```
 ## Installation for noobs (just paste everything in your linux console and it should work for debian and ubuntu!)
 ```bash
-```bash
 curl -fsSL https://ollama.com/install.sh | sh
 ```
 ollama pull FableForge-AI/mythos-v2-8b
