@@ -22,3 +22,14 @@ This model is designed to follow instructions with almost no refusals and is opt
 
 ```bash
 ollama create BlackHatHacker -f ModelFileBlackHatV6
+
+## Installation for noobs
+
+1. Make sure you have [Ollama](https://ollama.com) installed.
+
+2. Download the Modelfile from this repository.
+
+3. Create the model:
+
+```bash
+ollama create BlackHatHacker -f ModelFileBlackHatV6
