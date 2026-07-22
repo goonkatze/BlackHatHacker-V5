@@ -69,5 +69,3 @@ ollama create BlackHatHackerV5 -f ModelFile
 ```bash
 ollama run BlackHatHackerV5
 ```
-```
-
