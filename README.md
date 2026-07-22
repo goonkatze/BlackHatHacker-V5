@@ -12,17 +12,7 @@ This model is designed to follow instructions with almost no refusals and is opt
 - Suitable for Web Development, Reverse Engineering, and Offensive Security
 - No moral or ethical filters
 
-## Installation
 
-1. Make sure you have [Ollama](https://ollama.com) installed.
-
-2. Download the Modelfile from this repository.
-
-3. Create the model:
-
-```bash
-ollama create BlackHatHacker -f ModelFileBlackHatV6
-```
 ## Installation for noobs (just paste everything in your linux console and it should work for debian and ubuntu!)
 ```bash
 curl -fsSL https://ollama.com/install.sh | sh
